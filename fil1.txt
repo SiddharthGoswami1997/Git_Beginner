@@ -14,3 +14,5 @@ dsifjowianveinasvibwabvia
 this is change for the commit foe commit amendq
 
 I am in the main branch branch and i want to cherryy pick tthis change in tanisha
+Hello My name is Rahul and this is an git trial and practice repository.
+Today is Monday 21st of April 2025.
