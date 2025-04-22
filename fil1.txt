@@ -11,4 +11,4 @@ Today is Monday 21st of April 2025.
 hello this is for gi merge tool
 dsifjowianveinasvibwabvia
 
-this is change for the commit foe commit amend
+this is change for the commit foe commit amendq
